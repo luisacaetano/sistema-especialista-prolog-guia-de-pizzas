@@ -44,3 +44,4 @@ Trabalho prático da disciplina de Paradigmas de Linguagens de Programação do 
 ## Autor
 
 Luisa Caetano Araújo - IFMG Câmpus Formiga
+
